@@ -1,0 +1,41 @@
+Crop,Quarter,Predicted (MT),Historical Avg,vs History,Yield Class,Decision
+Coconut (w/ husk),Q1,224736.9,229476.1,-2.1%,Low,FALLOW
+Coconut (w/ husk),Q2,255131.6,248471.9,+2.7%,Medium,FALLOW
+Coconut (w/ husk),Q3,241975.3,349948.2,-30.9%,Low,FALLOW
+Coconut (w/ husk),Q4,212117.0,318840.5,-33.5%,Low,FALLOW
+Palay,Q1,150556.6,257749.8,-41.6%,Low,FALLOW
+Palay,Q2,147867.8,188726.1,-21.6%,Low,FALLOW
+Palay,Q3,228015.5,154894.5,+47.2%,Medium,FALLOW
+Palay,Q4,252786.5,249824.8,+1.2%,High,PLANT
+Sugarcane,Q1,217395.5,199144.6,+9.2%,High,PLANT
+Sugarcane,Q2,84476.4,83619.7,+1.0%,Medium,FALLOW
+Sugarcane,Q3,32458.5,2658.3,+1121.0%,Medium,FALLOW
+Sugarcane,Q4,202789.9,15.2,+1335977.6%,High,PLANT
+Banana,Q1,67075.1,60906.6,+10.1%,High,PLANT
+Banana,Q2,59380.2,57490.0,+3.3%,Low,FALLOW
+Banana,Q3,55514.0,65800.4,-15.6%,Low,FALLOW
+Banana,Q4,58246.8,64559.8,-9.8%,Low,FALLOW
+Banana Saba,Q1,52238.6,48417.6,+7.9%,High,PLANT
+Banana Saba,Q2,41782.9,40056.1,+4.3%,Low,FALLOW
+Banana Saba,Q3,37785.6,46309.9,-18.4%,Low,FALLOW
+Banana Saba,Q4,47529.2,43383.0,+9.6%,High,PLANT
+Corn,Q1,17664.0,9691.1,+82.3%,High,PLANT
+Corn,Q2,17498.2,17920.5,-2.4%,High,PLANT
+Corn,Q3,16437.0,17754.3,-7.4%,Medium,FALLOW
+Corn,Q4,7859.4,16689.9,-52.9%,Low,FALLOW
+Coconut Sap/Tuba,Q1,6402.6,5692.1,+12.5%,High,PLANT
+Coconut Sap/Tuba,Q2,6276.4,5889.1,+6.6%,High,PLANT
+Coconut Sap/Tuba,Q3,5614.1,5720.5,-1.9%,Medium,FALLOW
+Coconut Sap/Tuba,Q4,5835.0,5746.7,+1.5%,Medium,FALLOW
+Banana Latundan,Q1,3954.0,4257.2,-7.1%,Low,FALLOW
+Banana Latundan,Q2,4743.0,5545.6,-14.5%,Low,FALLOW
+Banana Latundan,Q3,5534.1,6622.6,-16.4%,Medium,FALLOW
+Banana Latundan,Q4,3904.1,5599.1,-30.3%,Low,FALLOW
+Abaca (dried raw fiber),Q1,1626.9,1930.8,-15.7%,Low,FALLOW
+Abaca (dried raw fiber),Q2,2207.3,3106.0,-28.9%,Low,FALLOW
+Abaca (dried raw fiber),Q3,2949.8,3159.6,-6.6%,Medium,FALLOW
+Abaca (dried raw fiber),Q4,1646.9,2956.2,-44.3%,Low,FALLOW
+Pineapple,Q1,1331.1,1558.6,-14.6%,Low,FALLOW
+Pineapple,Q2,7584.2,6441.5,+17.7%,High,PLANT
+Pineapple,Q3,6732.2,1245.8,+440.4%,High,PLANT
+Pineapple,Q4,1096.6,895.3,+22.5%,Low,FALLOW
