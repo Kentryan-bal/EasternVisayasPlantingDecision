@@ -5,6 +5,8 @@ A Streamlit web application for optimizing planting decisions in Eastern Visayas
 **Authors:** Kent Ryan D. Baluyot, Lorenzo Paul F. Lopez, Angelica Mae I. Moraca  
 **Institution:** Mapúa University, School of Information Technology
 
+**🔗 Live App:** [https://easternvisayasplantingdecision.streamlit.app/](https://easternvisayasplantingdecision.streamlit.app/)
+
 ---
 
 ## 📋 About
@@ -40,6 +42,13 @@ Technical dashboard for data enthusiasts:
 ---
 
 ## 🚀 Quick Start
+
+### Try it Live
+
+Visit the live application directly (no installation required):
+```
+https://easternvisayasplantingdecision.streamlit.app/
+```
 
 ### Installation
 
@@ -122,6 +131,6 @@ All data accessed via **Google Earth Engine API**
 
 ---
 
-## 📚 Research Thesis
+## 📚 jupyter notebook
 
 Complete methodology, EDA, model training, and evaluation available in `notebook/thesis_final.ipynb`
